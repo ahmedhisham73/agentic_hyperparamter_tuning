@@ -1,4 +1,9 @@
 # Agentic LLaMA 3.1 LoRA + SEAL Tuning
+## Architecture Overview
+
+![Agentic LLaMA-SEAL pipeline](assets/Untitled diagram-2025-11-15-182326.png)
+
+![Agents layer and orchestrator](assets/Untitled diagram-2025-11-15-184505.png).
 
 In this project I experiment with an agentic training loop around Meta LLaMA 3.1 using LoRA fine-tuning and a SEAL-style self-refinement stage.  
 The idea is to let a set of LLM agents act as a virtual ML team that:
