@@ -2,7 +2,7 @@
 ## Architecture Overview
 ## Architecture Overview
 
-![Agentic LLaMA-SEAL pipeline](assets/Untitled diagram-2025-11-15-182326.png)
+![Agentic LLaMA-SEAL pipeline]assets/Untitled diagram-2025-11-15-182326.png
 
 ![Agents layer and orchestrator](assets/Untitled diagram-2025-11-15-184505.png)
 
