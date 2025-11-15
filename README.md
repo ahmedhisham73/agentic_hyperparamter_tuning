@@ -1,8 +1,8 @@
 # Agentic LLaMA 3.1 LoRA + SEAL Tuning
 ## Architecture Overview
-
+## block diagram
 ![Agentic LLaMA-SEAL pipeline](assets/BD.png)
-
+## Low level design arch
 ![Agents layer and orchestrator](assets/LLD.png)
 
 
